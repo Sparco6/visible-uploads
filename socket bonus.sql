@@ -2329,3 +2329,16 @@ MySQL - 5.7.37-log
 ('ID: 3624 - Absorption (60 000)');
 ('ID: 3625 - Absorption (80 000)');
 ('ID: 3626 - Absorption (100 000)');
+('ID: 3627 - 10% Increased Critical Damage');
+('ID: 3628 - 15% Increased Critical Damage');
+('ID: 3629 - 20% Increased Critical Damage');
+('ID: 3630 - 25% Increased Critical Damage');
+('ID: 3631 - 30% Increased Critical Damage');
+('ID: 3632 - 35% Increased Critical Damage');
+('ID: 3633 - 40% Increased Critical Damage');
+('ID: 3634 - 45% Increased Critical Damage');
+('ID: 3635 - 50% Increased Critical Damage');
+
+
+Doplnění popisku spellitemenchantment
+https://trinitycore.info/files/DBC/335/spellitemenchantment 
