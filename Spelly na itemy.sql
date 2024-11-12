@@ -22,7 +22,7 @@
 53288 - 8000K Bonus Healing
 53289 - 10000K Bonus Healing
 
-**Spell Powerell Power:**
+**Spell Power:**
 35844 - 959 Spell Power
 53206 - 5K Spell Power
 53207 - 10K Spell Power
